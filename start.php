@@ -60,8 +60,8 @@
 
     $servername = "localhost";
     $username = "root";
-    $password = "Kartik@21bce105";
-    $dbname = "devdynasty";
+    $password = "enter  passaword here ";
+    $dbname = "enter database name here";
 
     // Create connection
     $conn = new mysqli(
