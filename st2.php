@@ -56,8 +56,8 @@
 
     $servername = "localhost";
     $username = "root";
-    $password = "Kartik@21bce105";
-    $dbname = "devdynasty";
+    $password = "";
+    $dbname = "";
 
     // Create connection
     $conn = new mysqli(
